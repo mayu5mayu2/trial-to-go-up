@@ -1,7 +1,7 @@
 package main
 
 import (
-	"/Users/masahironakamura/Desktop/執筆関係/Axross/axross_go_app/webapp/internal/handlers/handlers.go"
+	"/handlers/handlers.go"
 	"net/http"
 
 	"github.com/bmizerany/pat"
