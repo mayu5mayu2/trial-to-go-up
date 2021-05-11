@@ -1,7 +1,7 @@
 package main
 
 import (
-	"/handlers/handlers.go"
+	"/internal/handlers"
 	"net/http"
 
 	"github.com/bmizerany/pat"
