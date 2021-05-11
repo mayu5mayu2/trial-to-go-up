@@ -1,7 +1,7 @@
 package main
 
 import (
-	"/internal/handlers"
+	"axross-go-appinternal/handlers"
 	"net/http"
 
 	"github.com/bmizerany/pat"
